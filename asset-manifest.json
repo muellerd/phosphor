@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.b0edd2ba.css",
-    "main.js": "./static/js/main.22088f7d.js",
-    "static/media/vga.ttf": "./static/media/vga.17f4c2c19ec92a016bdb.ttf",
-    "static/media/vga.woff": "./static/media/vga.24874dcad1a78d7042de.woff",
-    "static/media/vga.woff2": "./static/media/vga.df091cabb621f21d4c24.woff2",
-    "index.html": "./index.html",
-    "main.b0edd2ba.css.map": "./static/css/main.b0edd2ba.css.map",
-    "main.22088f7d.js.map": "./static/js/main.22088f7d.js.map"
+    "main.css": "/phospor/static/css/main.842b8403.css",
+    "main.js": "/phospor/static/js/main.22088f7d.js",
+    "static/media/vga.ttf": "/phospor/static/media/vga.17f4c2c19ec92a016bdb.ttf",
+    "static/media/vga.woff": "/phospor/static/media/vga.24874dcad1a78d7042de.woff",
+    "static/media/vga.woff2": "/phospor/static/media/vga.df091cabb621f21d4c24.woff2",
+    "index.html": "/phospor/index.html",
+    "main.842b8403.css.map": "/phospor/static/css/main.842b8403.css.map",
+    "main.22088f7d.js.map": "/phospor/static/js/main.22088f7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0edd2ba.css",
+    "static/css/main.842b8403.css",
     "static/js/main.22088f7d.js"
   ]
 }
